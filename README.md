@@ -8,7 +8,7 @@ This project analyzes the **logistics and economic impact of a hypothetical 48-h
 The goal is to estimate:
 - How much container cargo (TEU) would be delayed
 - How that delay scales annually
-- The approximate **economic loss (USD)** caused by the disruption
+- The approximate economic loss (USD) caused by the disruption
 
 ---
 
@@ -17,10 +17,9 @@ The goal is to estimate:
 **Dataset:**  
 Container Throughput, Monthly – Maritime and Port Authority (MPA) of Singapore  
 
-- Source: data.gov.sg  
+- Source: `data.gov.sg` Monthly container throughput handled by Singapore ports 
 - Link:  
-  https://data.gov.sg/datasets/d_da030f7028200d19ffcbe4a2d71af39c/view?utm_source=chatgpt.com  
-- Description: Monthly container throughput handled by Singapore ports  
+  ```https://data.gov.sg/datasets/d_da030f7028200d19ffcbe4a2d71af39c/view?utm_source=chatgpt.com```  
 - Note: Latest month figures are preliminary estimates
 
 ---
