@@ -141,6 +141,6 @@ Output Metrics:
 
 
 ## 👤 Contact
-- Eliza C. Huang | Data Analyst with a background in UX research and data-driven analysis. Interested in roles within public policy, NGOs, human rights, and social impact organizations.
+- Eliza C. Huang | Data Analyst with a background in UX and data-driven analysis. Interested in roles within public policy, NGOs, human rights, and social impact organizations.
 - Portfolio / Data Visualizations: Instagram – DataDrawers [https://www.instagram.com/datadrawers/]
 - LinkedIn: [https://www.linkedin.com/in/chuyunh/]
